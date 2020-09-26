@@ -1,0 +1,73 @@
+h1 {
+    color: #a3c9f7;
+    font-family: Impact;
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Courier New';
+}
+
+body {
+    background: #FFFFFF;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.score:hover {
+    background-color: pink;
+}
+
+.button {
+    -webkit-appearance: button;
+    text-align: center;
+    font-family: Impact;
+    font-size: 50px;
+    color: black;
+}
+
+.report {
+    font-family: 'Courier New';
+    text-align: center;
+    background-color: #a3c9f7;
+    border: dotted;
+}
+
+.prompt {
+    font-family: 'Courier New';
+    text-align: center;
+    background-color: lightpink;
+    border: dotted;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.introduction h2 {
+    font-family: Copperplate;
+    font-size: 50px;
+    text-align: center;
+}
+
+table {
+    width:100%;
+    color: #a3c9f7;
+    font-family: Impact;
+    font-size: 60px;
+    text-align: center;
+}
+
+#fixed {
+    position: fixed;
+    bottom: 0px;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
